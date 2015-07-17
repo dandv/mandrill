@@ -1,6 +1,6 @@
 Package.describe({
   name: 'mjmasn:mandrill',
-  version: '0.2.0',
+  version: '0.2.1',
   summary: 'Mandrill API package',
   git: 'https://github.com/mjmasn/mandrill',
   documentation: 'README.md'
